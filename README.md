@@ -4,7 +4,7 @@ Hi 👋 My name is Hidayat Nur Hakim
 student
 -------
 
-I am doing my 5th semester education at Syiah Kuala University, majoring in informatics, greetings know everyone 👋!
+I am doing my 6th semester education at Syiah Kuala University, majoring in informatics, greetings know everyone 👋!
 
 * 🌍  I'm based in Banda Aceh
 * ✉️  You can contact me at [hidayatnurhakim2412@gmail.com](mailto:hidayatnurhakim2412@gmail.com)
