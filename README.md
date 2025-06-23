@@ -119,13 +119,6 @@ const hidayat = {
 
 [![Hidayat's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hidayattt24&theme=react-dark&hide_border=true&area=true&custom_title=12%20Month%20Contribution%20Graph)](https://github.com/hidayattt24)
 
-### 🏆 GitHub Achievements & Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=hidayattt24&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" width="800px" />
-
-### 📊 Contribution Heatmap
-
-<img src="https://ghchart.rshah.org/409ba5/hidayattt24" width="800px" />
 
 </div>
 
