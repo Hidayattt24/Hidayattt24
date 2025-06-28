@@ -55,11 +55,11 @@ const hidayat = {
 
 </div>
 
-## 📊 GitHub Analytics Dashboard
+## 📊 Real-Time GitHub Analytics
 
 <div align="center">
 
-### 🏆 Current GitHub Performance
+### 🏆 Live GitHub Performance
   
 <table>
 <tr>
@@ -67,62 +67,99 @@ const hidayat = {
 
 **📈 Overall Stats**
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=hidayattt24&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=Hidayat's%20GitHub%20Stats" width="420px" />
+<img src="https://github-readme-stats.vercel.app/api?username=hidayattt24&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800&custom_title=Real-time%20GitHub%20Stats" width="420px" />
 
 </td>
 <td align="center">
 
-**💻 Language Mastery**
+**💻 Language Distribution**
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hidayattt24&layout=donut&theme=radical&hide_border=true&langs_count=6&custom_title=Most%20Used%20Languages" width="420px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hidayattt24&layout=donut&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800&custom_title=Live%20Language%20Stats" width="420px" />
 
 </td>
 </tr>
 </table>
 
-### 🔥 Coding Streak & Consistency
+### 🔥 Current Coding Streak
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hidayattt24&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B" width="700px" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hidayattt24&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B&cache_seconds=1800" width="700px" />
 
-### 📊 Detailed Activity Overview
+### 📊 Advanced Repository Insights
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="48%">
 
-**🎯 Repository Stats**
+**🎯 Detailed GitHub Stats**
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=hidayattt24&show_icons=true&theme=radical&hide_border=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="400px" />
+<img src="https://github-readme-stats.vercel.app/api?username=hidayattt24&show_icons=true&theme=radical&hide_border=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&cache_seconds=1800" width="100%" />
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="52%">
 
-**⚡ Current Status**
+**📈 Contribution Heatmap**
 <br><br>
-
-```
-🌟 Total Stars: 2
-📝 Total Commits: 492
-🔀 Total PRs: 8  
-❓ Total Issues: 0
-📦 Contributed (last year): 4
-🏅 Current Rank: C+
-```
-
-**🎯 Goal: Reach B Rank!**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hidayattt24&theme=react-dark&hide_border=true&area=true&custom_title=Live%20Activity%20Graph&cache_seconds=1800" width="100%" />
 
 </td>
 </tr>
 </table>
 
-### 📈 Contribution Activity Graph
+### 🏅 GitHub Trophies (Auto-Updated)
 
-[![Hidayat's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hidayattt24&theme=react-dark&hide_border=true&area=true&custom_title=12%20Month%20Contribution%20Graph)](https://github.com/hidayattt24)
+<img src="https://github-profile-trophy.vercel.app/?username=hidayattt24&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=1800" width="100%" />
 
+### 📈 Real-Time Metrics Summary
+
+<table align="center">
+<tr>
+<td align="center">
+
+**📊 Quick Stats**
+<br><br>
+
+[![GitHub followers](https://img.shields.io/github/followers/hidayattt24?label=Followers&style=for-the-badge&color=FF6B6B&labelColor=0D1117&logo=github)](https://github.com/hidayattt24?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/hidayattt24?label=Total%20Stars&style=for-the-badge&color=FFA500&labelColor=0D1117&logo=github)](https://github.com/hidayattt24?tab=repositories)
+[![Profile views](https://komarev.com/ghpvc/?username=hidayattt24&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/hidayattt24)
+
+</td>
+</tr>
+</table>
 
 </div>
 
+## 🎖️ Featured Work & Projects
 
+<div align="center">
+
+### 🌟 Recent Activity & Contributions
+
+<table>
+<tr>
+<td align="center" width="100%">
+
+**📈 Contribution Activity Overview**
+<br><br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hidayattt24&theme=react-dark&hide_border=true&area=true&custom_title=Development%20Activity%20Timeline&cache_seconds=1800" width="100%" />
+
+</td>
+</tr>
+</table>
+
+### 🚀 Development Highlights
+
+```typescript
+const myProjects = {
+    portfolio: "https://portofolio-hidayat-phi.vercel.app/",
+    expertise: ["React", "Next.js", "TypeScript", "UI/UX Design"],
+    currentWork: "Building modern web applications with exceptional user experience",
+    availability: "Open for exciting opportunities! 🌟"
+};
+```
+
+</div>
+
+## 💡 Skills & Expertise Breakdown
 
 ### 💼 What I Bring to Your Team
 
@@ -132,6 +169,28 @@ const hidayat = {
 - **🔧 Full-Stack Capabilities**: End-to-end development from database design to user interface
 - **📱 Responsive Design**: Mobile-first approach ensuring compatibility across all devices
 - **🤝 Collaborative Spirit**: Experience with Git workflows and team development practices
+
+### 📈 Current Development Focus
+
+```javascript
+const currentGoals = {
+    shortTerm: [
+        "Master Advanced Next.js 14+ Features",
+        "Improve GitHub Repository Quality",
+        "Build More Open Source Projects"
+    ],
+    longTerm: [
+        "Contribute to Major Open Source Projects",
+        "Reach 1000+ GitHub Stars",
+        "Build SaaS Products"
+    ],
+    learning: [
+        "Three.js for 3D Web Experiences",
+        "Advanced TypeScript Patterns",
+        "Microservices Architecture"
+    ]
+};
+```
 
 ## 📫 Let's Connect & Collaborate!
 
@@ -148,7 +207,16 @@ const hidayat = {
 🌐 Portfolio: portofolio-hidayat-phi.vercel.app
 💼 Status: Available for Full-time/Freelance positions
 📍 Location: Banda Aceh, Indonesia (Open to Remote)
+⏰ Response Time: Usually within 24 hours
 ```
+
+### 🎯 Collaboration Interests
+
+- **Frontend/Full-Stack Development** - React, Next.js, TypeScript projects
+- **UI/UX Design** - Modern, accessible, and user-friendly interfaces  
+- **Open Source** - Contributing to meaningful projects
+- **Mentoring** - Helping junior developers grow
+- **Freelance Projects** - Web applications and design systems
 
 </div>
 
@@ -158,8 +226,9 @@ const hidayat = {
 
 **⭐ If you find my work interesting, don't forget to star my repositories!**
 
-![Profile Views](https://komarev.com/ghpvc/?username=hidayattt24&label=Profile%20views&color=0e75b6&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/hidayattt24?label=Followers&style=social)
+*Stats update automatically every 30 minutes | Profile views tracked in real-time*
+
+[![GitHub stats update time](https://img.shields.io/badge/Last%20Updated-Real--time-brightgreen?style=flat-square&logo=github)](https://github.com/hidayattt24)
 
 </div>
 
@@ -169,6 +238,6 @@ const hidayat = {
   
 *"Code is poetry written in logic, design is empathy made visible."* ✨
 
-**Last Updated:** June 2025 | **Always Learning, Always Growing** 🌱
+**Always Learning, Always Growing** 🌱 | **Open to New Opportunities** 💼
 
 </div>
