@@ -2,7 +2,7 @@
 
 # 🚀 Hidayat Nur Hakim
 
-### **Full-Stack Developer | AI & LLM Enthusiast 
+### **Full-Stack Developer | AI & LLM Enthusiast**
 
 ---
 
