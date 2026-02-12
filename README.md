@@ -2,7 +2,7 @@
 
 # 🚀 Hidayat Nur Hakim
 
-### **Full-Stack Developer | AI & LLM Enthusiast | National Innovator**
+### **Full-Stack Developer | AI & LLM Enthusiast 
 
 ---
 
