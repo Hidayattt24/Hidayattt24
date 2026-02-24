@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hidayat Nur Hakim
 
-**Software Engineer | Full-Stack | Exploring AI & LLM**
+**Software Engineer | Exploring AI & LLM**
 
 **Top 20 Finalist LIDM 2025 • Ex-FE/BE Cohort @ DBS Foundation • Top 20 Capstone DBS 2025 • Finalist Hackathon INFEST XI • 2nd Winner INFINITERA 1.0 • Ex-AI Intern @ Diskominsa Aceh • Teaching Assistant @ Informatics USK**
 
